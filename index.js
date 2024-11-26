@@ -24,7 +24,7 @@ function createBot () {
 const bot = mineflayer.createBot({
   host: '247BedrockSMP.aternos.me', 
   version: false, // U can replace with 1.16.5 for example, remember to use ', = '1.16.5'
-  username: 'SG_SHOWRIYA', 
+  username: 'SG_AFKBOT1', 
   port: 44979, 
   plugins: [AutoAuth],
   AutoAuth: 'bot112022'
