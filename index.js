@@ -23,7 +23,7 @@ setInterval(() => {
 function createBot () {
 const bot = mineflayer.createBot({
   host: 'XenonBedrockSMP.aternos.me', 
-  version: false, // U can replace with 1.16.5 for example, remember to use ', = '1.16.5'
+  version: 1.21.3, // U can replace with 1.16.5 for example, remember to use ', = '1.16.5'
   username: 'Afk_boT1', 
   port: 21496, 
   plugins: [AutoAuth],
